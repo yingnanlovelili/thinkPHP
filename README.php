@@ -1,3 +1,0 @@
-# thinkPHP
-ssss
-sss
